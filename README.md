@@ -1,4 +1,4 @@
-## Opa, me chamo Yan e aqui você vai ver meus melhores projetos pessoais.
+## Opa, me chamo Yan e aqui você vai ver alguns de meus projetos pessoais favoritos.
 
 ---
 
