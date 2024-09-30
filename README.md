@@ -1,4 +1,4 @@
-## Oi, me chamo Yan e aqui você pode ver alguns dos meus projetos pessoais favoritos.
+## Tudo certo? Meu nome é Yan, e aqui você vai ver alguns dos meus projetos pessoais favoritos.
 
 ---
 
