@@ -1,8 +1,8 @@
-## Tudo certo? Meu nome é Yan, e aqui você vai ver alguns dos meus projetos pessoais favoritos.
+## Hi, my name is Yan, and here you will see some of my favorites personal projects.
 
 ---
 
-### Conhecimentos:
+### Knowledges:
 <div style="display: inline_block"><br>
   <img align="center" alt="Yan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +13,7 @@
  
  ---
  
-### Contatos:
+### Contacts:
 <div> 
   <a href="https://instagram.com/yanmano_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://whatsa.me/5548999940856" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
