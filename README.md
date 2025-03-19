@@ -1,4 +1,4 @@
-## Hi, my name is Yan, and here you will see some of my favorites personal projects.
+## Hi, my name is Yan, and here you will see some of my favorite personal projects.
 
 ---
 
