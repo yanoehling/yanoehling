@@ -4,15 +4,26 @@
 
 ### Knowledges:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python Icon" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!---<img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">--->
-  <!---<img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">--->
-  <img align="center" alt="R Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
-  <!---<img align="center" alt="MySQL Icon" height="80" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">--->         
+  <!---<img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">--->
+  <img align="center" alt="R Icon" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
+  <!---<img align="center" alt="MySQL Icon" height="80" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Java Icon" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">--->         
 </div>
  
  ---
+
+### Learning:
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="MySQL Icon" height="80" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">         
+  <img align="center" alt="Java Icon" height="35" width="50" src="https://devicon-website.vercel.app/api/java/original.svg">         
+</div>
+
+---
  
 ### Contacts:
 <div> 
