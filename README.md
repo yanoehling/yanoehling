@@ -14,12 +14,14 @@
 </div>
 
 ### Learning:
-<div style="display: inline_block">
+<div style="display: inline-block;
+  margin-right: 16px;
+  height: 100px;">
   <!---<img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">--->
-  <img align="center" alt="MySQL Icon" height="75" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">         
-  <img align="center" alt="Java Icon" height="35" width="60" src="https://devicon-website.vercel.app/api/java/original.svg">
-  <img align="center" alt="Nest Icon" height="30" width="45" src="https://devicon-website.vercel.app/api/nestjs/plain.svg">
+  <img align="center" alt="MySQL Icon" height="75" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">    
+  <img align="center" alt="Nest Icon" height="37" width="60" src="https://devicon-website.vercel.app/api/nestjs/plain.svg">
+  <img align="center" alt="Java Icon" height="55" width="45" src="https://devicon-website.vercel.app/api/java/original.svg">
 </div>
 
 ---
